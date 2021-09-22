@@ -1,5 +1,4 @@
 import React from 'react'
-import Amount from './Amount'
 import { useGlobalContext } from "../context"
 
 

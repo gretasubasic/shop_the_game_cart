@@ -1,7 +1,7 @@
 import React from 'react'
 import { useGlobalContext } from '../context'
 import Game from './Game'
-import Amount from './Amount'
+
 
 
 const Games = () => {

@@ -10,11 +10,6 @@ const Header = () => {
             
             <FaShoppingCart />
             <span>{amount}</span>
-
-               
-                
-         
-            
             </div>
            
             
